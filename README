@@ -1,0 +1,69 @@
+Welcome to A Mazing World of Pals! You are placed in a dark maze full of mysterious creatures called pals.
+Your ultimate goal is to become the very best pal trainer that there ever was. Be careful, the maze contains
+many enemy trainers that have the same goal. Build up your team by catching wild pals. Test your strength
+by battling enemy trainers. Explore deeper in the maze to uncover ancient secrets. In A Mazing World of Pals,
+anything* is possible.
+
+The game features the following controls.
+---------------------------------------------------
+waxd, hjkl, arrow keys, or numpad: player movement
+f: Fly to another map
+B: List items in your bag
+t: List trainers on map
+P: List your pal team
+">": Enter building
+Enter: Select action
+Esc: Exit menu
+Q: Quit game
+--------------------------------------------------
+
+To run the code: type "make" in the command line, type "./pals in the command line. To adjust the number
+of NPCs that spawn in each map, add the switch --numtrainers and enter an integer value.
+
+Example:
+> make
+> ./pals --numtrainers 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*some things

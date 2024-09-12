@@ -1,0 +1,38 @@
+Assignment 1.01
+1/26 - Began assignment, can print an 21x80 character output.
+1/27 - Implemented maze building functionality
+1/28 - Implemented maze solving functionality and logic to populate terrain
+
+Assignment 1.02
+2/3 - Refactored code to support a map structure
+2/4 - Added ability to move through the world, generating maps as you walk and fly along
+
+Assignment 1.03
+2/10 - Added trainer and heap structures
+2/11 - Added a playable character ("PC") , non-playable characters ("NPCs"), and NPC pathfinding
+
+Assignment 1.04
+2/15 - Refactored code so that new types of settings, terrains, and NPCs can be added easily. 
+2/19 - Added the ability to move the PC. Added a heap-based game engine that determines in what order characters will move. Differentiated between NPC spawning and pathfinding logic based on NPC type.
+
+Assignement 1.05
+3/2 - Added a UI and color with ncurses library.
+3/3 - Added placeholder interaction screens for battles, entering buildings, and viewing trainer list. Added the ability for trainers to be defeated and updated pathfinding logic.
+3/18 - Fixed small bugs and polished UI for assignment submission.
+
+Assignment 1.06
+3/26 - Converted all .c files to .cpp files and made necessary changes so that code would compile
+3/27 - Added ability to fly and walk through gates between maps
+
+Assignment 1.07
+4/1 - Switched to using Dr. Scheaffer's solutions drops. This is the end of 'pals'. The pokedex database in the pyrite /shr/ directory is now accessible within the game. 
+4/3 - Added a dataframe class to store all of the data within a csv. Added ability to print this data to terminal.
+
+Assignment 1.08
+4/10 - The demise of 'pals' was greatly exaggerated. Ported Dr. Scheaffer's db_parse class into the orignal pals code. Began creating a pokemon class.
+4/11 - Added the ability to encounter pokemon. Trainers are now able to carry teams of up to six pokemon.
+
+Assignment 1.09
+4/15 - Added the ability of the PC to carry pokemon across maps. The "PC" is actually 401^2 clones of the original PC. Who knew!
+4/16 - Added the ability to battle pokemon and trainers.
+4/17 - Fleshed out pokemon battles by adding the ability to run away, switch pokemon, and use items from bag.
